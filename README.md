@@ -32,7 +32,7 @@ This project is part of the KAIM 8 Learning Week 0 program. The project analyzes
 ## Objective 
 
  Compare the solar potential of Benin, Sierra Leone, and Togo based on the cleaned datasets.
-
+ 
 ## Usage 
  - Combine the cleaned datasets and create summary statistics for each country. 
  - Visualize differences in solar indicators such as GHI, DNI, and DHI. 
